@@ -1,0 +1,43 @@
+.main{
+    
+    
+    margin: 0px auto;
+    margin-top: 50px;
+    width: 300px;
+    height: auto;
+    
+}
+
+.result{
+    border: white;
+    background-color: white;
+    width: 90%;
+    color: black;
+    height:40px; font-size:14pt; 
+    
+}
+
+.lg{
+    
+    margin: 2px 1px;
+    width: 70%;
+    height: 30px;
+    color : white;
+    background-color: black;
+}
+.sm{
+    margin: 2px 1px;
+    width: 20%;
+    height: 30px;
+    color : white;
+    background-color: black;
+
+}
+.md{
+    margin: 2px 1px;
+    width: 22%;
+    height: 30px;
+    color : white;
+    background-color: black;
+    
+}
